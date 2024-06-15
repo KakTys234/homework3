@@ -1,7 +1,8 @@
-my_string = input("Укажите ФИО: ")
-print(len(my_string))
-print(my_string.upper())
-print(my_string.lower())
-print(my_string.replace(' ', ''))
-print(my_string[0])
-print(my_string[-1])
+name = 'Сергей'
+print(name)
+age = 58
+print(age)
+age = 55
+print(age)
+is_student = True
+print(is_student)
